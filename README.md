@@ -27,10 +27,9 @@
   <a href="https://www.linkedin.com/in/cebrunu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ##
-  <img align="left" alt="gif" height="205" width="300" src="https://github.com/LuigiGf/LuigiGf/blob/main/code.gif">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brux4o)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img align="left" alt="gif" height="205" width="300" src="https://github.com/LuigiGf/LuigiGf/blob/main/code.gif">
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
