@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brux4o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brux4o&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div>
-  
  <br>
   <h3>Linguagens que mais estudo...<h3>
   <div style="display: inline_block"><br>
@@ -15,8 +13,7 @@
   <img align="center" alt="Bruno-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Bruno-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
   <img align="center" alt="Bruno-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Bruno-gif" height="320" width="320" src="https://media.discordapp.net/attachments/790702732918915072/1032536755200598066/download20221004031010.png?width=579&height=579"/>
-    
+  <img align="right" alt="Bruno-gif" height="320" width="320" src="https://media.discordapp.net/attachments/790702732918915072/1032536755200598066/download20221004031010.png?width=579&height=579"/>   
 </div>
   
   ##
