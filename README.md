@@ -1,5 +1,5 @@
 <div align="center">
-## Olá! Seja Bem-vinde ao meu perfil!
+<h1>## Olá! Seja Bem-vinde ao meu perfil!</h1>
 </div>
 <div align="center">
   <a href="https://github.com/Brux4o">
